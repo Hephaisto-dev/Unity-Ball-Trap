@@ -1,4 +1,4 @@
-Ce projet est une idée originale de Mathias Filliol et Hugo Saint-Raymond
+Ce projet est une idée originale de Hephaisto et Gollumgogo
 Ce jeu est un shooter de type ball-trap. Le but est de tirer sur les oiseaux qui apparaissent avant qu'il y en ai 40 affichés.
 Plus le temps de jeu augmente plus le nombre d'oiseaux augmente.
 Ce jeu est un jeu qui dure au maximum 800 secondes, à chaque fois qu'un oiseau est tué, le score augmente de 1 et des particules sortent de l'oiseau.
