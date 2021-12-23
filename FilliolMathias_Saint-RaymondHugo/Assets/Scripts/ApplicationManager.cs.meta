@@ -3,7 +3,9 @@ guid: 753dcedbcf53236479bbb3c64a20ebd6
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - BirdPrefab: {fileID: 1543922963743078716, guid: 3985805401df8424ca45c44ac6ec1c58, type: 3}
+  - cam: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
